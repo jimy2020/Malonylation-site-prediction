@@ -12,7 +12,7 @@ This program is suitable for Python3 <br>
 This program uses the FScore method in the feature selection phase. <br>
 
 In the classifier folder, we have implemented various classifier methods. <br>
-In the data folder, There is original data. <br>
+In the data folder, There are original datas. <br>
 In the classifier folder, we have implemented various classifier methods. <br>
 In the Feature_extraction folder, we have implemented various feature extraction methods. Note that the <b> weight folder </b> is the same as the <b> TFCRF </b> method.<br>
 
